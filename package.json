@@ -1,0 +1,22 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janicechang2016/liri-node-app.git"
+  },
+  "author": "Janice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janicechang2016/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/janicechang2016/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  }
+}
